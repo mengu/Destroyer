@@ -1,0 +1,6 @@
+This is an application that tracks what I am doing with my computer.
+If I am not developing, means if anything other than geany, gedit, eclipse or netbeans
+is "the active window" over 15 minutes, then it's going to destroy it.
+
+It doesn't catch keyboard events, but it is planned.
+
